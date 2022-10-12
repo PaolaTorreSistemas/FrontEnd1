@@ -1,0 +1,33 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 300%;
+}
+
+header{
+    text-align: center;
+    
+}
+
+.titulo{
+    background-color: #C4C4C4;
+    text-align: center;
+    color: #005677;
+
+}
+
+
+
+h3{
+    color: #005677;
+    background-color: #C4C4C4;
+    font-weight: bold;
+    
+    
+    
+}
+
+h2{
+    text-align: center;
+    background-color: #005677;
+    color: #fafafa;
+}
